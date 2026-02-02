@@ -1,0 +1,16 @@
+# This file ensures the images directory is tracked by git
+# You can add your plate decoration images here with the following naming convention:
+# 
+# Festival Collections:
+# - varalakshmi-1.jpg, varalakshmi-2.jpg, varalakshmi-3.jpg
+# - diwali-1.jpg, diwali-2.jpg, diwali-3.jpg
+# - ganesh-1.jpg, ganesh-2.jpg, ganesh-3.jpg
+#
+# Wedding Collections:
+# - wedding-1.jpg, wedding-2.jpg, wedding-3.jpg
+#
+# Pooja Collections:
+# - pooja-1.jpg, pooja-2.jpg, pooja-3.jpg
+#
+# Custom Collections:
+# - custom-1.jpg, custom-2.jpg, custom-3.jpg
